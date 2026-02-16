@@ -8,3 +8,4 @@
 本日晴天なれども波高し
 
 conflict-remote上で更新
+
