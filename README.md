@@ -7,4 +7,5 @@
 
 本日晴天なれども波高し
 
-Github上でさらに更新
+conflict-remote上で更新
+
